@@ -22,7 +22,7 @@
 ---
 
 ### 🗂️ Meus principais repositórios
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=Algoritmos-e-Programacao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/Algoritmos-e-Programacao)ㅤㅤ[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=APICRUD&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/APICRUD)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=Supermarketo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/Supermarket)ㅤㅤ[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=Supermarket&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/Supermarket)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=Python-AI-Backend-Developer&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/Python-AI-Backend-Developer)ㅤㅤ[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=projetospython&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/projetospython)
 

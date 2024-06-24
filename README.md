@@ -4,25 +4,25 @@
 
 ### Social 📧
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lucas-Felomeno-Silva/) ㅤㅤㅤ[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luscassilvaz/)ㅤㅤㅤ[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:pv.lucassilva@gmail.com)ㅤㅤㅤ[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/pv_lucassilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lucas-Felomeno-Silva/) ㅤㅤㅤ[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luscassilvaz/)ㅤㅤㅤ[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:pv.lucassilva@gmail.com)ㅤ
 
 ---
 
 ### Minhas linguagens favotiras 🧑‍💻
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)ㅤㅤㅤ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)ㅤㅤㅤ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)ㅤㅤㅤ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)ㅤㅤㅤ
 
 ---
 
 ### Atualmente estou estudando 🧑‍🎓
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)ㅤㅤ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)ㅤㅤ<img src="https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white" />ㅤㅤ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)ㅤㅤ<img src="https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white" />ㅤㅤ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 
 ---
 
 ### 🗂️ Meus principais repositórios
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=Supermarketo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/Supermarket)ㅤㅤ[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=Supermarket&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/Supermarket)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=Supermarket&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/Supermarket)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=Python-AI-Backend-Developer&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/Python-AI-Backend-Developer)ㅤㅤ[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasFelomenoSilva&repo=projetospython&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasFelomenoSilva/projetospython)
 

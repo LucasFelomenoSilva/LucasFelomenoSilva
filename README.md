@@ -6,7 +6,7 @@
 
 ### 🚀 Tech Stack/Studying
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,css" />
+  <img src="https://skillicons.dev/icons?i=java,css,spring,hibernate,maven" />
 </p>
 
 ### 📫 Contact

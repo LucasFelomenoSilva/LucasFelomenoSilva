@@ -2,7 +2,7 @@
 
 
 • 💻 Financial Analyst at [HTS](https://www.linkedin.com/company/hts-logistica/) | Aspiring Software Engineer  
-• 📘 Studying Software Engineering | Graduated in Systems Analysis and Development  
+• 📘 Studying Software Engineering in PUC Minas | Graduated in Systems Analysis and Development  
 
 ### 🚀 Tech Stack/Studying
 <p align="center">

@@ -6,7 +6,7 @@
 
 ### 🚀 Tech Stack/Studying
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,postgresql,java,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=java,kanban,scrum,kubernetes" />
 </p>
 
 ### 📫 Contact
